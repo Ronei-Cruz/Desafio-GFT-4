@@ -1,0 +1,15 @@
+D:\Test\Desafio_GFT4\ExercicioTres\bin\Debug\net6.0\ExercicioTres.exe
+D:\Test\Desafio_GFT4\ExercicioTres\bin\Debug\net6.0\ExercicioTres.deps.json
+D:\Test\Desafio_GFT4\ExercicioTres\bin\Debug\net6.0\ExercicioTres.runtimeconfig.json
+D:\Test\Desafio_GFT4\ExercicioTres\bin\Debug\net6.0\ExercicioTres.dll
+D:\Test\Desafio_GFT4\ExercicioTres\bin\Debug\net6.0\ref\ExercicioTres.dll
+D:\Test\Desafio_GFT4\ExercicioTres\bin\Debug\net6.0\ExercicioTres.pdb
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.csproj.AssemblyReference.cache
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.AssemblyInfoInputs.cache
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.AssemblyInfo.cs
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.csproj.CoreCompileInputs.cache
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.dll
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ref\ExercicioTres.dll
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.pdb
+D:\Test\Desafio_GFT4\ExercicioTres\obj\Debug\net6.0\ExercicioTres.genruntimeconfig.cache
