@@ -1,0 +1,15 @@
+D:\Test\Desafio_GFT4\ExercicioUm\bin\Debug\net6.0\ExercicioUm.exe
+D:\Test\Desafio_GFT4\ExercicioUm\bin\Debug\net6.0\ExercicioUm.deps.json
+D:\Test\Desafio_GFT4\ExercicioUm\bin\Debug\net6.0\ExercicioUm.runtimeconfig.json
+D:\Test\Desafio_GFT4\ExercicioUm\bin\Debug\net6.0\ExercicioUm.dll
+D:\Test\Desafio_GFT4\ExercicioUm\bin\Debug\net6.0\ref\ExercicioUm.dll
+D:\Test\Desafio_GFT4\ExercicioUm\bin\Debug\net6.0\ExercicioUm.pdb
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.AssemblyReference.cache
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfoInputs.cache
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfo.cs
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.CoreCompileInputs.cache
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.dll
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ref\ExercicioUm.dll
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.pdb
+D:\Test\Desafio_GFT4\ExercicioUm\obj\Debug\net6.0\ExercicioUm.genruntimeconfig.cache
